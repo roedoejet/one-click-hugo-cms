@@ -24,10 +24,20 @@ Then, add your files to GitHub:
 
 Then, you can add your readalongs 'shortcode' anywhere you like.
 
+This code:
+
+```
 {{< 
   readalongs
   text=/readalongs/danish.xml 
   alignment=/readalongs/danish.smil 
   audio=/readalongs/danish.wav 
 >}}
+```
 
+produces this:
+
+{{< readalongs
+  text=/readalongs/danish.xml 
+  alignment=/readalongs/danish.smil 
+  audio=/readalongs/danish.wav >}}
