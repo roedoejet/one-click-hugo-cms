@@ -21,3 +21,5 @@ Then, make sure you are editing your post in "markdown" mode:
 
 ![new post](/img/markdown-mode.png)
 
+Then, add your files to GitHub
+
